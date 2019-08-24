@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SQL Busines Suite - Golink Live",
-    "currentPage": "sql-payroll.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#9a07fd",
         "#a38465",
         "#00c6ff",
         "#e76e0d",
         "#ffb17f",
         "#fff7db",
-        "#7ec6f4"
+        "#7ec6f4",
+        "#ff7fed"
       ]
     },
     "path": "@PROJECT_PATH@",
