@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SQL Busines Suite - Golink Live",
-    "currentPage": "index.html",
+    "currentPage": "sql-account-features.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x127-128x127.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-MJJ43SFL1P\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'G-MJJ43SFL1P');\r\n</script>",
     "siteUrl": "",
     "cookiesAlert": "",
     "gdpr": "",
