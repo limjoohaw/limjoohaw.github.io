@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "SQL Busines Suite - Golink Live V2",
+    "name": "SQL Busines Suite - Golink Live",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -47,7 +47,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 365,
-    "versionPublish": "4.10.5",
+    "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x127-128x127.png",
     "noImageResize": "",
@@ -56,7 +56,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on"
   },
   "pages": {
