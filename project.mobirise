@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SQL Busines Suite - Golink Live",
-    "currentPage": "comingsoon.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -59,7 +59,14 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "": "on"
+    "": "on",
+    "PWA": {
+      "enabled": false,
+      "name": "Golink | SQL Business Suite",
+      "icon": "@PROJECT_PATH@/assets/images/favicon-512x512.png",
+      "themeColor": "#c1c1c1"
+    },
+    "pwa-switcher": true
   },
   "pages": {
     "ctos.html": {
