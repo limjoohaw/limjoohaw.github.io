@@ -61,10 +61,10 @@
     "sitemapSwitcher": "on",
     "": "on",
     "PWA": {
-      "enabled": false,
+      "enabled": true,
       "name": "Golink | SQL Business Suite",
       "icon": "@PROJECT_PATH@/assets/images/favicon-512x512.png",
-      "themeColor": "#c1c1c1"
+      "themeColor": "#e4d295"
     },
     "pwa-switcher": true
   },
